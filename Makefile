@@ -3,7 +3,7 @@ VERSION = 6
 PATCHLEVEL = 17
 SUBLEVEL = 0
 EXTRAVERSION = -rc7
-NAME = Baby Opossum Posse
+NAME = Failboat And The Crazy Time Loop
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
